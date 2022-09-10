@@ -1,1 +1,1 @@
-# Pythone-learning-course
+# Pythone-learning-course-kntu
